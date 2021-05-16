@@ -9,6 +9,7 @@ sudo python3 BotPCFactory.py
 
 TESTEADO EN:
 Ubuntu 20.04 focal
+
 Kali GNU/Linux Rolling x86_64 
 
 
